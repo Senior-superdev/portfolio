@@ -12,7 +12,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Daniel Goleman</h3>
+          <h3>Designed and Developed by Artemiev Bohdan</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} DG</h3>
@@ -27,36 +27,6 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://t.me/@Super_ninja1213"
-                style={{ color: "white" }}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <SiTelegram />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://www.linkedin.com/in/senior-superdev-182614367/"
-                style={{ color: "white" }}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <FaLinkedinIn />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://app.slack.com/client/T08JR0082UT/D08TKDQH09F"
-                style={{ color: "white" }}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <SiSlack />
               </a>
             </li>
           </ul>

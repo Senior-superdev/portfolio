@@ -1,7 +1,7 @@
-# Daniel Goleman – Senior Full Stack Developer Portfolio ✨
+# Artemiev Bohdan – Senior Full Stack Developer Portfolio ✨
 
 This is a fully responsive and modern personal portfolio website built with HTML, CSS, and JavaScript, React Native and node.js.  
-It’s designed to showcase projects, skills, and experience for a full-stack developer based in Singapore.
+It’s designed to showcase projects, skills, and experience for a full-stack developer based in Ukraine.
 
 ## 🚀 Features
 

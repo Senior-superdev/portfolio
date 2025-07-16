@@ -31,7 +31,7 @@ function Home2() {
               My professional and special skills are
               <i>
                 <b className="purple">
-                  Wordpress, Woocommerce, Shopify, Django, Node.js and FastAPI.{" "}
+                  Wordpress, Shopify, Django, Node.js and FastAPI.{" "}
                 </b>
               </i>
               <br />
@@ -39,21 +39,17 @@ function Home2() {
               My field of Interest's are building new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b> and
-                also in areas related to <b className="purple">NLP, Pytorch</b>
+                also in areas related to <b className="purple">React, Vue.js</b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with <b className="purple">Amazon Web Service</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  AI App Development 
                 </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Vue.js</b>
               </i>
             </p>
           </Col>
@@ -67,7 +63,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Feel free to <span className="purple">make a contract </span>with me
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
@@ -78,37 +74,6 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <AiFillGithub />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://t.me/@Super_ninja1213"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <SiTelegram />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://app.slack.com/client/T08JR0082UT/D08TKDQH09F"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <SiSlack />
-                </a>
-              </li>
-
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/senior-superdev-182614367/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <FaLinkedinIn />
                 </a>
               </li>
             </ul>

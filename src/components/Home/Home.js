@@ -14,7 +14,7 @@ function Home() {
           <Row>
             <Col md={7} className="home-header">
               <h1 style={{ paddingBottom: 15 }} className="heading">
-                Hi Client!{" "}
+                Hi There!{" "}
                 <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻
                 </span>
@@ -22,7 +22,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> Daniel Goleman</strong>
+                <strong className="main-name"> Artemiev Bohdan</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
